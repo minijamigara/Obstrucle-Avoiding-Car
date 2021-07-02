@@ -1,4 +1,4 @@
- //ARDUINO OBSTACLE AVOIDING CAR//
+//ARDUINO OBSTACLE AVOIDING CAR//
 // Before uploading the code you have to install the necessary library//
 //AFMotor Library https://learn.adafruit.com/adafruit-motor-shield/library-install //
 //NewPing Library https://github.com/livetronic/Arduino-NewPing// 
